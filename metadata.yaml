@@ -1,4 +1,8 @@
 _repo: The-English-Flower-Garden-with-illustrative-notes_48985
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48985-h/images/cover.jpg
 creator:
   author:
     agent_name: Bright, Henry Arthur
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '40151'
     url: http://www.gutenberg.org/2009/agents/40151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48985#The-English-Flower-Garden-with-illustrative-notes
 gutenberg_issued: '2015-05-17'
 gutenberg_type: Text
 identifiers:
